@@ -1,0 +1,8 @@
+@mixin button ($background-color, $text-color) {
+    background: $background-color;
+    color: $text-color;
+    padding: 10px 38px;
+    border-radius: 30px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+}
